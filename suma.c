@@ -9,7 +9,7 @@ int main()
   printf ("Segundo número:\n");
   scanf("%d",&num2);
   resultado = num1 + num2;
-  printf ("Total: %d\n",resultado);
+  printf ("Total: \n%d\n",resultado);
 
   return 0;
 }
